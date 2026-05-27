@@ -1,6 +1,8 @@
 # Easypad
 A macropad which has switchable modes! It will contain various shortcuts to make using a computer easier (such as ctrl+c, ctrl+v, etc.). It uses a 4x4 button matrix, Neopixel LEDs, and a 0.91" 128x32 SSD1306 Monochrome OLED Display
 
+<img width="469" height="556" alt="image" src="https://github.com/user-attachments/assets/c2d58740-56b1-4e0c-98de-27a7f697b96a" />
+
 <img width="7022" height="4510" alt="Easypad" src="https://github.com/user-attachments/assets/93c800f1-300c-4d54-a9a9-6a77e068c49e" />
 
 # BOM:
